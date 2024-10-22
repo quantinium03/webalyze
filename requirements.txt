@@ -1,0 +1,11 @@
+streamlit
+pytest-playwright
+playwright
+requests
+beautifulsoup4
+langchain
+langchain_ollama
+lxml
+html5lib
+python-dotenv
+asyncio
